@@ -2,7 +2,7 @@
 
 **Tier-B actor · DID `did:web:etzhayyim.com:actor:nusa` · ADR-2606039800 · R0 scaffold**
 
-Canonical repository: `etzhayyim/actor-nusa`.
+Canonical repository: `cloud-itonami/actor-nusa`.
 
 Within the Tamaki artificial organism, nusa is the ritual-hemp heritage and
 licensed low-THC supply-planning organ. It cannot represent psychoactive
